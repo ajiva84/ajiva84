@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajiva84
+- 👋 Hi, I’m Azam Jiva
 - 👀 I’m interested in AI, blockchain, and Metaverse
 - 🌱 I’m currently learning Financial technologies
 - 💞️ I’m looking to collaborate on Fintech projects
